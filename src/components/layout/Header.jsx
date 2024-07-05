@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function Header() {
 
   return (
-    <header>
+    <header className='AppHeader fixed left-0 right-0 top-0 z-10 w-full'>
       <div className='container'>
         <div className='flexheader flex justify-between'>
           <Link to={'/'}>Logo</Link>

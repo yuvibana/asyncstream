@@ -2,9 +2,38 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    --primary: #0A0102;
+    --secondary: #c90e0e;
+    --white:#ffffff;
+}
+
 .container {
     max-width: 1350px;
     padding: 0 15px;
     margin: 0 auto;
     width: 100%;
+}
+
+.customOverLay {
+    position: relative;
+
+    &::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        height: 100%;
+        width: 100%;
+        background: rgb(0 0 0 / 64%);
+        z-index: 1;
+    }
+}
+
+.AppHeader {
+    background: var(--primary);
+    padding: 8px 0;
+    color: var(--white);
 }

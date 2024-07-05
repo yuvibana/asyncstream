@@ -8,4 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-<!-- ref Link https://preview.themeforest.net/item/holaa-ott-platform-and-video-streaming-html-template/full_screen_preview/51890257?_ga=2.138933619.1154190282.1719899324-568610192.1708510100 -->
+
+# ====================================================== #
+
+# ui refrences 👇
+
+# https://preview.themeforest.net/item/holaa-ott-platform-and-video-streaming-html-template/full_screen_preview/51890257?_ga=2.138933619.1154190282.1719899324-568610192.1708510100
+
+# https://themes.hibotheme.com/norflo/home-two/
